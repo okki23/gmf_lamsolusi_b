@@ -1,1 +1,0 @@
-# ci_hmvc_core
